@@ -1,6 +1,4 @@
 
-Football Match Probability Prediction
-# 
 <a name="readme-top"></a>
 <div align="center">
   <p align="center">
@@ -12,7 +10,8 @@ Football Match Probability Prediction
   </p>
 </div>
 
-<h1 align="center"> Football Match Probability Prediction - Invitation for Technical Assessment Test </h1>
+<h1 align="center"> Football Match Probability Prediction </h1>
+<h1 align="center"> Invitation for Technical Assessment Test </h1>
 
 Candicate Name: Nguyen Quoc Khanh
 

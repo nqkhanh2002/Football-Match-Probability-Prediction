@@ -6,9 +6,9 @@ Football Match Probability Prediction
   <p align="center">
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/nqkhanh2002/Vision-AI-Intern/issues">Report Bug</a>
+    <a href="https://github.com/nqkhanh2002/Football-Match-Probability-Prediction/issues">Report Bug</a>
     ·
-    <a href="https://github.com/nqkhanh2002/Vision-AI-Intern/pulls">Request Feature</a>
+    <a href="https://github.com/nqkhanh2002/Football-Match-Probability-Prediction/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -23,11 +23,12 @@ Email: nqkdeveloper@gmail.com
 - Python 3.11  
 
 # Structure
-- Report and Result Analysis (PDF) : [Report](Report.pdf)
-- Source Code for 3 tasks (Jupyter Notebook) : [Source Code](source)
-- Dataset (ignored > 100mb) : [Dataset](https://www.kaggle.com/competitions/football-match-probability-prediction)
-- Run code locally or quick implement on [My Kaggle Notebook](https://www.kaggle.com/code/masterofdeception/thinkprompt-test-nqk)
-- Others: [Pretrained XGBoost](https://www.kaggle.com/datasets/masterofdeception/xgboost-football)
+
+- Report and Result Analysis (PDF): [Report](Report.pdf){:target="_blank"}
+- Source Code for 3 tasks (Jupyter Notebook): [Source Code](source){:target="_blank"}
+- Dataset (ignored > 100mb): [Dataset](https://www.kaggle.com/competitions/football-match-probability-prediction){:target="_blank"}
+- Run code locally or quickly implement it on [My Kaggle Notebook](https://www.kaggle.com/code/masterofdeception/thinkprompt-test-nqk){:target="_blank"}
+- Others: [Pretrained XGBoost](https://www.kaggle.com/datasets/masterofdeception/xgboost-football){:target="
 
 # Conclusion
 In conclusion, this technical assessment test for the Football Match Probability Prediction project demonstrates my understanding and ability to work with football match data, apply machine learning techniques, and predict match outcomes and scores. The source code and report provide an overview of the approach, methodologies, and results obtained during the analysis.
